@@ -1,0 +1,6 @@
+{
+  "name": "PUZZLE 100 - Android Game",
+  "description": "Native Android Game built with Kotlin, Jetpack Compose, Material 3 and MVVM. Dark Premium Navy theme with vibrant puzzle blocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
